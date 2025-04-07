@@ -1,0 +1,51 @@
+Se 0,1 ≤ |𝑟|< 5,0 "APROVADO"
+Se 0,7 ≤ |𝑟| < 0,9 "REPROVADO"
+
+
+
+
+var(aprovados)
+sd(aprovados)
+
+
+
+
+var(repovados)
+sd(repovados)
+
+CV=(sd(idade)/mean(idade))*100
+
+CV=(sd(notas$aprovados)/mean((notas$aprovados))*100
+
+CVrep=(sd(notas$repovados)/mean(notas$repovados))*100
+
+plot(dados$Idade, dados$Renda, main="Diagrama de Dispersão", ylab="Renda", xlab="Idade") 
+
+
+cor(dados$Renda, dados$Idade)
+
+
+cor.test(dados$Renda, dados$Idade,method='pearson')$p.value
+
+modelo = lm(formula =  dados$Renda~dados$Idade, data = dados)
+
+
+tabela<-matrix(c(8,15,11,62, 67, 57), nrow=2, ncol=3, byrow=T)
+rownames(tabela)<-c("D","ND")
+colnames(tabela)<-c("F1", "F2", "F3")
+chisq.test(tabela)
+
+
+dadoss<-read.csv("Nutricao.csv", header=TRUE, sep=";")
+
+freq=table(dadoss$Classificacao)
+plot(dadoss$Situacao, dadoss$Classificacao, main="Diagrama de Dispersão", ylab="Situacao", xlab="Classificação") 
+
+
+Dadoss$Paciente, Dadoss$Situacao, Dadoss$Idade, Dadoss$Peso, Dadoss$Altura, Dadoss$IMC, Dadoss$Classificacao,
+ylab="Paciente", xlab="Situação", ylab="Idade", xlab="Peso", ylab="Altura", xlab="IMC"
+
+
+
+freq=table(dadoss$Classificacao)
+max(freq)

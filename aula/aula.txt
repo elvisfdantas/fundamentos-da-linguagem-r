@@ -1,0 +1,5 @@
+Nome Sexo Idade	Altura EstadoCivil TerminoGraduacao
+Fabricio Masculino 32 1.75 Casado 10
+Elvis Masculino	45 1.60 Casado 20
+Rafael Masculino 17 1.50 Solteiro 1
+Karine Feminino 25 1.60 Casada 5

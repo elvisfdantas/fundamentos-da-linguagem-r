@@ -1,0 +1,201 @@
+ID;EstCivil;Renda;Idade;Filhos;AnosServico;Escolaridade;Regiao;Ocupacao
+1;Divorciado;5.45;19;1;2;Medio completo;Nordeste;Assalariado/autonomo
+2;Divorciado;12.5;33;6;16;Medio completo;Centro Oeste;Funcionario publico
+3;Casado;11.7;18;2;1;Medio completo;Sul;Assalariado/autonomo
+4;Casado;11.85;42;6;17;Medio completo;Centro Oeste;Assalariado/autonomo
+5;Casado;9.2;29;3;12;Medio completo;Sudeste;Assalariado/autonomo
+6;Casado;1.05;44;4;22;Fundamental completo;Sudeste;Desempregado
+7;Casado;8.25;18;3;1;Fundamental completo;Centro Oeste;Desempregado
+8;Solteiro;1.1;18;0;1;Superior completo;Centro Oeste;Assalariado/autonomo
+9;Casado;1.85;22;4;5;Medio completo;Sul;Assalariado/autonomo
+10;Solteiro;1.95;18;0;1;Medio completo;Centro Oeste;Assalariado/autonomo
+11;Solteiro;3.6;41;0;15;Fundamental completo;Sul;Desempregado
+12;Casado;5;40;5;16;Medio completo;Centro Oeste;Assalariado/autonomo
+13;Divorciado;16.75;31;8;14;Superior completo;Sul;Assalariado/autonomo
+14;Casado;38.75;49;4;34;Medio completo;Nordeste;Assalariado/autonomo
+15;Casado;5.2;23;4;2;Superior completo;Centro Oeste;Empresario
+16;Solteiro;6.25;18;0;1;Superior completo;Centro Oeste;Assalariado/autonomo
+17;Casado;9.2;18;1;1;Medio completo;Nordeste;Assalariado/autonomo
+18;Divorciado;8.6;37;5;16;Superior completo;Nordeste;Assalariado/autonomo
+19;Solteiro;3.35;28;0;9;Superior completo;Sul;Assalariado/autonomo
+20;Casado;3.9;18;2;1;Medio completo;Sul;Assalariado/autonomo
+21;Casado;23.85;27;4;10;Fundamental completo;Sudeste;Funcionario publico
+22;Casado;8.4;32;4;15;Superior completo;Centro Oeste;Empresario
+23;Casado;20.3;19;2;2;Medio completo;Nordeste;Assalariado/autonomo
+24;Solteiro;13.85;37;0;15;Superior completo;Centro Oeste;Assalariado/autonomo
+25;Divorciado;8.15;38;3;12;Medio completo;Sudeste;Assalariado/autonomo
+26;Casado;17.55;41;5;22;Superior completo;Centro Oeste;Empresario
+27;Casado;12.8;61;5;34;Medio completo;Sudeste;Assalariado/autonomo
+28;Casado;21.7;29;2;12;Medio completo;Sul;Assalariado/autonomo
+29;Casado;12.25;34;4;17;Medio completo;Centro Oeste;Assalariado/autonomo
+30;Casado;10.4;34;5;12;Fundamental completo;Sudeste;Aposentado
+31;Casado;19.25;18;2;1;Superior completo;Sudeste;Empresario
+32;Casado;15.2;55;6;34;Fundamental completo;Centro Oeste;Assalariado/autonomo
+33;Casado;11.7;39;2;14;Fundamental completo;Sul;Assalariado/autonomo
+34;Solteiro;1.75;22;0;5;Fundamental completo;Centro Oeste;Assalariado/autonomo
+35;Divorciado;19.55;45;4;26;Medio completo;Centro Oeste;Assalariado/autonomo
+36;Casado;8.65;32;5;9;Medio completo;Sudeste;Assalariado/autonomo
+37;Divorciado;17.7;31;1;14;Medio completo;Sudeste;Funcionario publico
+38;Solteiro;5.65;52;0;27;Medio completo;Centro Oeste;Assalariado/autonomo
+39;Casado;31.25;45;4;22;Medio completo;Centro Oeste;Assalariado/autonomo
+40;Casado;23.7;41;3;17;Fundamental completo;Nordeste;Desempregado
+41;Casado;2.95;25;4;8;Superior completo;Sul;Assalariado/autonomo
+42;Casado;7.45;27;4;3;Medio completo;Sul;Assalariado/autonomo
+43;Solteiro;1.6;39;0;18;Fundamental completo;Sudeste;Aposentado
+44;Casado;16.9;39;4;13;Medio completo;Centro Oeste;Assalariado/autonomo
+45;Solteiro;4.05;24;0;6;Medio completo;Centro Oeste;Assalariado/autonomo
+46;Divorciado;9.75;21;1;4;Fundamental completo;Centro Oeste;Assalariado/autonomo
+47;Divorciado;3.45;30;3;4;Superior completo;Sudeste;Assalariado/autonomo
+48;Casado;21.55;18;2;1;Medio completo;Centro Oeste;Profissional liberal
+49;Casado;10.3;25;4;4;Superior completo;Sul;Profissional liberal
+50;Casado;4.25;18;2;1;Medio completo;Centro Oeste;Assalariado/autonomo
+51;Divorciado;4.1;25;5;8;Medio completo;Sudeste;Assalariado/autonomo
+52;Casado;5.9;18;1;1;Medio completo;Sudeste;Funcionario publico
+53;Casado;2.55;35;3;18;Medio completo;Sudeste;Assalariado/autonomo
+54;Casado;32.25;49;5;31;Superior completo;Centro Oeste;Assalariado/autonomo
+55;Casado;13.85;20;2;3;Medio completo;Centro Oeste;Assalariado/autonomo
+56;Casado;2.35;50;4;26;Superior completo;Nordeste;Assalariado/autonomo
+57;Casado;18.4;23;3;6;Medio completo;Sul;Assalariado/autonomo
+58;Casado;10.6;28;6;11;Fundamental completo;Sudeste;Desempregado
+59;Casado;10.5;18;2;1;Medio completo;Centro Oeste;Assalariado/autonomo
+60;Casado;8.1;24;5;7;Medio completo;Centro Oeste;Assalariado/autonomo
+61;Solteiro;17.4;19;0;2;Superior completo;Centro Oeste;Assalariado/autonomo
+62;Solteiro;20;41;0;24;Superior completo;Sudeste;Profissional liberal
+63;Casado;2.8;37;2;18;Medio completo;Sudeste;Assalariado/autonomo
+64;Casado;7.1;33;3;10;Medio completo;Centro Oeste;Assalariado/autonomo
+65;Casado;8.4;32;5;15;Medio completo;Sul;Assalariado/autonomo
+66;Solteiro;12.15;18;0;1;Superior completo;Nordeste;Profissional liberal
+67;Casado;12.8;30;5;13;Superior completo;Centro Oeste;Empresario
+68;Casado;14.95;30;2;13;Medio completo;Centro Oeste;Profissional liberal
+69;Casado;29.45;40;4;23;Medio completo;Sudeste;Assalariado/autonomo
+70;Casado;5.6;18;2;1;Medio completo;Centro Oeste;Assalariado/autonomo
+71;Solteiro;1.1;24;0;7;Medio completo;Centro Oeste;Assalariado/autonomo
+72;Casado;2.6;34;4;11;Medio completo;Sul;Assalariado/autonomo
+73;Casado;16.6;32;4;10;Fundamental completo;Sul;Funcionario publico
+74;Casado;15.8;39;4;18;Superior completo;Centro Oeste;Profissional liberal
+75;Casado;26.85;42;4;25;Superior completo;Centro Oeste;Assalariado/autonomo
+76;Casado;4.6;18;3;1;Medio completo;Centro Oeste;Assalariado/autonomo
+77;Casado;24.7;27;4;10;Fundamental completo;Sudeste;Assalariado/autonomo
+78;Casado;9.85;33;3;13;Medio completo;Centro Oeste;Assalariado/autonomo
+79;Casado;12.35;29;3;12;Medio completo;Centro Oeste;Profissional liberal
+80;Casado;27.55;44;7;24;Superior completo;Sudeste;Assalariado/autonomo
+81;Casado;13.4;31;1;11;Medio completo;Centro Oeste;Profissional liberal
+82;Divorciado;7.45;31;3;14;Fundamental completo;Sul;Funcionario publico
+83;Casado;17.4;27;1;6;Medio completo;Centro Oeste;Assalariado/autonomo
+84;Casado;7;18;3;1;Fundamental completo;Centro Oeste;Assalariado/autonomo
+85;Solteiro;18.85;18;0;1;Superior completo;Nordeste;Empresario
+86;Solteiro;2.75;18;0;1;Medio completo;Sul;Aposentado
+87;Casado;14.55;32;5;15;Fundamental completo;Sudeste;Assalariado/autonomo
+88;Casado;22.2;43;2;26;Fundamental completo;Nordeste;Funcionario publico
+89;Solteiro;26.85;18;0;1;Medio completo;Centro Oeste;Assalariado/autonomo
+90;Divorciado;1.25;18;1;1;Superior completo;Centro Oeste;Assalariado/autonomo
+91;Casado;3.85;43;4;26;Fundamental completo;Centro Oeste;Assalariado/autonomo
+92;Solteiro;7.3;44;0;22;Medio completo;Sudeste;Assalariado/autonomo
+93;Casado;9.75;30;3;13;Fundamental completo;Sul;Assalariado/autonomo
+94;Casado;14.45;33;2;10;Medio completo;Centro Oeste;Assalariado/autonomo
+95;Casado;6.8;18;1;1;Superior completo;Centro Oeste;Empresario
+96;Casado;10.7;29;4;12;Medio completo;Centro Oeste;Assalariado/autonomo
+97;Casado;7;36;5;14;Medio completo;Sudeste;Assalariado/autonomo
+98;Casado;59.15;51;8;24;Fundamental completo;Centro Oeste;Funcionario publico
+99;Casado;1.65;42;3;15;Fundamental completo;Centro Oeste;Desempregado
+100;Solteiro;1.55;22;0;5;Fundamental completo;Sudeste;Funcionario publico
+101;Casado;5.15;42;1;25;Fundamental completo;Sudeste;Desempregado
+102;Casado;14.8;32;2;13;Medio completo;Centro Oeste;Assalariado/autonomo
+103;Solteiro;7.1;18;0;1;Fundamental completo;Centro Oeste;Assalariado/autonomo
+104;Divorciado;11.4;18;2;1;Medio completo;Sul;Assalariado/autonomo
+105;Casado;38.2;45;2;26;Medio completo;Sul;Assalariado/autonomo
+106;Casado;6.8;37;5;15;Superior completo;Sudeste;Assalariado/autonomo
+107;Casado;7;23;3;6;Fundamental completo;Sudeste;Desempregado
+108;Casado;18.1;49;6;36;Medio completo;Nordeste;Assalariado/autonomo
+109;Casado;15.55;19;2;2;Medio completo;Centro Oeste;Assalariado/autonomo
+110;Casado;28.1;54;5;34;Superior completo;Centro Oeste;Empresario
+111;Casado;1.95;26;3;0;Medio completo;Sudeste;Assalariado/autonomo
+112;Casado;1.4;30;4;8;Superior completo;Sul;Assalariado/autonomo
+113;Divorciado;3.9;18;0;1;Medio completo;Sul;Assalariado/autonomo
+114;Casado;3.65;22;3;1;Medio completo;Centro Oeste;Assalariado/autonomo
+115;Casado;5.35;34;5;11;Fundamental completo;Centro Oeste;Funcionario publico
+116;Casado;10.7;43;5;18;Fundamental completo;Nordeste;Assalariado/autonomo
+117;Casado;15.95;33;4;14;Medio completo;Sul;Assalariado/autonomo
+118;Casado;5.1;26;5;9;Fundamental completo;Sudeste;Assalariado/autonomo
+119;Casado;53.45;29;3;12;Fundamental completo;Centro Oeste;Desempregado
+120;Casado;3.75;21;1;4;Medio completo;Nordeste;Assalariado/autonomo
+121;Divorciado;4.85;23;3;6;Medio completo;Centro Oeste;Assalariado/autonomo
+122;Casado;8.6;35;5;15;Medio completo;Sul;Assalariado/autonomo
+123;Casado;30.85;44;3;21;Medio completo;Centro Oeste;Assalariado/autonomo
+124;Divorciado;10;26;5;9;Fundamental completo;Sudeste;Assalariado/autonomo
+125;Casado;19.7;34;6;14;Medio completo;Sudeste;Assalariado/autonomo
+126;Solteiro;8.75;21;0;4;Medio completo;Nordeste;Assalariado/autonomo
+127;Casado;4.65;18;3;1;Superior completo;Centro Oeste;Assalariado/autonomo
+128;Solteiro;6.05;40;0;15;Medio completo;Sul;Assalariado/autonomo
+129;Casado;13.05;30;4;9;Superior completo;Centro Oeste;Empresario
+130;Divorciado;6.35;32;1;9;Superior completo;Sul;Assalariado/autonomo
+131;Divorciado;6.3;31;2;9;Medio completo;Centro Oeste;Assalariado/autonomo
+132;Casado;1.95;27;2;6;Medio completo;Nordeste;Assalariado/autonomo
+133;Casado;15.8;20;2;3;Medio completo;Centro Oeste;Assalariado/autonomo
+134;Casado;6.85;34;7;9;Fundamental completo;Sul;Assalariado/autonomo
+135;Casado;10.8;24;4;7;Medio completo;Centro Oeste;Assalariado/autonomo
+136;Casado;20.45;27;6;3;Medio completo;Sudeste;Assalariado/autonomo
+137;Solteiro;5;32;0;12;Fundamental completo;Nordeste;Funcionario publico
+138;Casado;7.3;18;3;1;Medio completo;Centro Oeste;Assalariado/autonomo
+139;Divorciado;9.45;39;2;21;Medio completo;Centro Oeste;Assalariado/autonomo
+140;Casado;4.15;39;2;13;Superior completo;Sudeste;Assalariado/autonomo
+141;Divorciado;3.85;42;4;16;Medio completo;Sudeste;Funcionario publico
+142;Casado;34.6;43;6;26;Medio completo;Centro Oeste;Assalariado/autonomo
+143;Casado;23.7;21;3;4;Medio completo;Centro Oeste;Assalariado/autonomo
+144;Casado;13.75;24;4;7;Fundamental completo;Sul;Assalariado/autonomo
+145;Casado;11.3;18;3;1;Superior completo;Sul;Empresario
+146;Casado;12.35;41;5;15;Medio completo;Nordeste;Assalariado/autonomo
+147;Solteiro;8.1;25;0;8;Medio completo;Nordeste;Assalariado/autonomo
+148;Casado;11.2;23;8;6;Medio completo;Centro Oeste;Assalariado/autonomo
+149;Divorciado;20.3;18;1;1;Fundamental completo;Centro Oeste;Assalariado/autonomo
+150;Divorciado;8.4;29;4;7;Medio completo;Sudeste;Funcionario publico
+151;Casado;18.1;30;4;9;Medio completo;Sudeste;Empresario
+152;Divorciado;8.1;36;1;13;Medio completo;Sul;Assalariado/autonomo
+153;Casado;14.45;30;5;13;Superior completo;Centro Oeste;Empresario
+154;Casado;8.5;18;2;1;Fundamental completo;Centro Oeste;Assalariado/autonomo
+155;Solteiro;6.05;24;0;7;Medio completo;Sudeste;Profissional liberal
+156;Casado;3.05;38;4;17;Medio completo;Nordeste;Assalariado/autonomo
+157;Casado;20.15;18;2;1;Medio completo;Sudeste;Assalariado/autonomo
+158;Casado;11.95;22;6;5;Medio completo;Centro Oeste;Funcionario publico
+159;Casado;9.65;26;2;9;Superior completo;Centro Oeste;Empresario
+160;Casado;21.55;29;7;12;Fundamental completo;Sul;Funcionario publico
+161;Casado;13.15;31;5;14;Fundamental completo;Centro Oeste;Desempregado
+162;Casado;1.85;18;2;1;Medio completo;Sudeste;Assalariado/autonomo
+163;Casado;8.5;18;2;1;Medio completo;Sudeste;Assalariado/autonomo
+164;Solteiro;14.1;23;0;6;Medio completo;Nordeste;Assalariado/autonomo
+165;Casado;15.95;25;2;4;Fundamental completo;Sul;Aposentado
+166;Divorciado;15.2;51;2;31;Fundamental completo;Centro Oeste;Desempregado
+167;Casado;8.75;21;0;4;Fundamental completo;Centro Oeste;Funcionario publico
+168;Casado;12.6;21;3;4;Superior completo;Sudeste;Assalariado/autonomo
+169;Casado;24;19;1;2;Medio completo;Nordeste;Assalariado/autonomo
+170;Casado;4.75;29;5;12;Medio completo;Centro Oeste;Desempregado
+171;Solteiro;5.15;35;0;12;Medio completo;Sudeste;Assalariado/autonomo
+172;Casado;22.5;18;3;1;Superior completo;Centro Oeste;Assalariado/autonomo
+173;Casado;8.3;42;2;17;Medio completo;Centro Oeste;Assalariado/autonomo
+174;Solteiro;1.75;18;0;1;Fundamental completo;Sudeste;Desempregado
+175;Casado;21.4;33;3;16;Medio completo;Sudeste;Assalariado/autonomo
+176;Divorciado;29.45;29;1;12;Fundamental completo;Sudeste;Funcionario publico
+177;Casado;6.05;28;3;11;Medio completo;Sul;Funcionario publico
+178;Divorciado;6.25;42;5;15;Superior completo;Sul;Empresario
+179;Divorciado;1.3;18;2;1;Medio completo;Centro Oeste;Assalariado/autonomo
+180;Solteiro;1.05;19;0;2;Medio completo;Nordeste;Assalariado/autonomo
+181;Casado;20.45;19;2;2;Medio completo;Sudeste;Assalariado/autonomo
+182;Casado;8.15;29;2;7;Medio completo;Centro Oeste;Assalariado/autonomo
+183;Casado;7.25;50;3;19;Medio completo;Sudeste;Assalariado/autonomo
+184;Casado;38.5;27;4;10;Fundamental completo;Centro Oeste;Assalariado/autonomo
+185;Casado;38.5;31;6;14;Medio completo;Sul;Assalariado/autonomo
+186;Casado;7.6;33;4;9;Medio completo;Sul;Assalariado/autonomo
+187;Divorciado;2.35;20;2;3;Medio completo;Sul;Assalariado/autonomo
+188;Solteiro;10.4;18;0;1;Fundamental completo;Centro Oeste;Assalariado/autonomo
+189;Solteiro;6.55;18;0;1;Fundamental completo;Centro Oeste;Desempregado
+190;Casado;6.8;23;5;6;Superior completo;Sudeste;Profissional liberal
+191;Casado;16.1;35;3;12;Fundamental completo;Centro Oeste;Assalariado/autonomo
+192;Casado;15.55;39;2;15;Medio completo;Sudeste;Assalariado/autonomo
+193;Casado;6.5;37;5;17;Superior completo;Centro Oeste;Assalariado/autonomo
+194;Solteiro;17;26;0;9;Medio completo;Sul;Assalariado/autonomo
+195;Casado;10.2;29;5;12;Fundamental completo;Centro Oeste;Assalariado/autonomo
+196;Casado;13.95;28;5;9;Fundamental completo;Sudeste;Funcionario publico
+197;Divorciado;3.55;18;2;1;Medio completo;Sudeste;Assalariado/autonomo
+198;Casado;8.65;34;3;14;Medio completo;Nordeste;Assalariado/autonomo
+199;Casado;4.3;34;6;9;Fundamental completo;Centro Oeste;Aposentado
+200;Solteiro;29.45;30;0;13;Superior completo;Sudeste;Assalariado/autonomo

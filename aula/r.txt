@@ -1,0 +1,36 @@
+NL=as.numeric(table(dados$Regiao))
+n=10
+n1=round((87/200)*n)
+n2=round( (23/200)*n)
+n3=round( (52/200)*n)
+n4=round( (38/200)*n)
+round(n1)
+round(n2)
+round(n3)
+round(n4)
+
+nL=c(4,1,3,2)
+
+#Definição da amostra
+amostra2 <- S.STSI(as.factor(dados$Regiao), NL, nL)
+
+
+amostra <- dadosf[runif(n,1,nrow(dadosf)),]  #Definição da amostra
+
+
+
+
+
+n=10
+n1=round((13/40)*n)
+n2=round( (19/40)*n)
+n3=round( (8/40)*n)
+
+nL=c(4,1,3,2)
+
+#Definição da amostra
+amostra3 <- S.STSI(as.factor(dados$intr), NL, nL)
+
+
+
+conforme imagem verificamos que as pessoas acamadas tem em média de 60 anos e a deambulando tem em media 80 anos.

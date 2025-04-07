@@ -1,0 +1,54 @@
+tabela<-matrix(c(80,55,70,65,85,45), nrow=2, ncol=3, byrow=T)
+rownames(tabela)<-c("Masculino","Feminino")
+colnames(tabela)<-c("CS", "CH", "CE")
+chisq.test(tabela)
+
+Para visualizar a distribuição da tabela:
+barplot(freq, beside=T, legend=T, col=c("blue", "pink"))
+
+ggplot(freq, beside=T, legend=T, col=c("blue", "pink"))
+
+
+
+ggplot(Cushings, aes(x=Type, y=Situacao, fill=Type))+
+  geom_boxplot() + 
+ggtitle('Tabela de Nutrição')
+
+boxplot(amostra$Idade)
+boxplot(dadoss$Situacao)
+boxplot(dadoss$Idade~dadoss$Situacao)
+
+cor.test(dados$Peso, dados$Altura,method='pearson')$p.value
+
+FornecedorA =  c(1.8, 2.5, 1.5, 1.2, 1,0)
+FornecedorB =  c(1.6, 2.5, 1.2, 2.3, 1,5) 
+
+mean(FornecedorA)
+median(FornecedorA)
+sd(FornecedorA)
+
+range(FornecedorA)
+diff(range(FornecedorA))
+
+CV=(sd(dFornecedorA)/mean(FornecedorA))*100
+CV=(sd(dFornecedorB)/mean(FornecedorB))*100
+
+
+mean(dados$Idade)
+
+
+
+
+idade = c(43, 49, 32, 64, 28, 17, 41, 37, 21, 14, 73, 59, 22, 38, 36, 28, 36, 63, 71, 48)
+ordem = seq(1:20)
+dados = data.frame(ordem, idade)
+
+N<-nrow(dados)
+n<-6
+K<-round(N/n)
+
+
+amostra<-S.SY(N,k)
+
+
+dadosf<-read.csv("Milsa.txt", header=TRUE, sep=";")
